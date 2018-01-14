@@ -1,5 +1,5 @@
 body{
-	background-color: #F2F6D0 
+	background-color: #d3d3d3 
 }
 
 #save-article{
@@ -11,12 +11,9 @@ body{
 }
 
 #notes{
-	float: right;
-	width: 30%;
 }
 textarea, input {
 	width: 100%;
-	background-color: #FCF5C7;
 }
 input {
 	height: 36px;
